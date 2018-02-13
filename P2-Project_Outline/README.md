@@ -19,30 +19,30 @@ Display lists (or a list, with a google map ) of the first fourof each of these(
 Mutil
 ### Features
 Include Features here
- *Address search bar with auto completion
+ * _Address search bar with auto completion_
 
- *List of the first four location of the desired searched based on distance and/or ratings.
+ * _List of the first four location of the desired searched based on distance and/or ratings._
 
- *A google map of the search results
+ * A google map of the search results
 
- *Signin and signup to enable ability to save result to a database ond/ or receive newletters
- *Link to enable user to view details of the location(using the utilities website), directions etc
- *Ability to filter which utility you want to search for or if you wanna search for all utilities.
+ * Signin and signup to enable ability to save result to a database ond/ or receive newletters
+ * Link to enable user to view details of the location(using the utilities website), directions etc
+ * Ability to filter which utility you want to search for or if you wanna search for all utilities.
  
 ### Technologies
 Used are the following technologies:
- *Java 8
- *vim as text editor
- *git as version control
- *bootstrap
- *MySQL
- *Firebase for online detabase
- *AngularJS(JavaScript) for frontend
- *HTML5 and CSS3
- *Google App Engine(Google Cloud Platform)
+ * Java 8
+ * vim as text editor
+ * git as version control
+ * bootstrap
+ * MySQL
+ * Firebase for online detabase
+ * AngularJS(JavaScript) for frontend
+ * HTML5 and CSS3
+ * Google App Engine(Google Cloud Platform)
  
 ### What I'll Have to Learn
- *Using the google MAPs api to pull data,
- *Angular JS
- *Deployment suing the google app Engine. 
+ * _Using the google MAPs api to pull data_,
+ * _Angular JS_
+ * _Deployment suing the google app Engine._ 
 
