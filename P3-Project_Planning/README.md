@@ -12,4 +12,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-#*https://www.pivotaltracker.com/n/projects/2148797*
+* *https://www.pivotaltracker.com/n/projects/2148797*
